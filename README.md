@@ -130,14 +130,9 @@ https://jsonplaceholder.typicode.com/users
 
 ## Screenshots
 
-### Dashboard
-
 ![Dashboard](./screenshots/dashboard.png)
 
-### Add User
-
-![Add User](./screenshots/add-user.png)
-
+![Add-User](./screenshots/add-user.png)
 
 
 ## Author
